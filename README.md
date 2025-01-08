@@ -18,4 +18,4 @@ Put the downloaded data from CRSP Monthly Stock in the "dta" file, name it as "C
 Then running Step1 to Step7.
 
 For Step7, you should download the correspondent files from Fama-French website, and the put them in the "input" file. 
-Then, we can get a replication of the SMB factor and HML factor
+Then, we can get the replication of the SMB factor and HML factor.
