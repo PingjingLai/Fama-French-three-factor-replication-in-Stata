@@ -9,7 +9,7 @@ CRSP Monthly Stock: just using query to download the necessary variables in Step
 **********************************************************************************************************
 Code running
 
-Paste the do file in any folder. And you need to create another four subfolders, which are named "dta", "log", "input" and "output" in that folder.
+Paste the do files in any folder. And you need to create another four subfolders, which are named "dta", "log", "input" and "output" in that folder.
 
 Put the downloaded data from CRSP/Compustat Merged - Fundamentals Annual in the "dta" file, and name it as "CRSP_Compustat Merged Annual".
 
