@@ -1,13 +1,13 @@
 
 **********************************************************************************************************
-Data preparation:
+# Data preparation:
 
 CRSP/Compustat Merged - Fundamentals Annual: just using query to download the necessary variables in Step1.
 
 CRSP Monthly Stock: just using query to download the necessary variables in Step2.
 
 **********************************************************************************************************
-Code running:
+# Code running:
 
 Paste the do files in any folder. And you need to create another four subfolders, which are named "dta", "log", "input" and "output" in that folder.
 
